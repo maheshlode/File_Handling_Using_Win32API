@@ -1,0 +1,4 @@
+﻿  File_Traversal.cpp
+D:\File_Traversal\File_Traversal\File_Traversal.cpp(88,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\File_Traversal\File_Traversal\File_Traversal.cpp(120,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  File_Traversal.vcxproj -> D:\File_Traversal\x64\Debug\File_Traversal.exe
