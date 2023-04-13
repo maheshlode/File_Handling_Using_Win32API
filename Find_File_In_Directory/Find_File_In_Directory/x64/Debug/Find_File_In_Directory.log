@@ -1,0 +1,4 @@
+﻿  Find_File_In_Directory.cpp
+E:\Find_File_In_Directory\Find_File_In_Directory\Find_File_In_Directory.cpp(91,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Find_File_In_Directory\Find_File_In_Directory\Find_File_In_Directory.cpp(128,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Find_File_In_Directory.vcxproj -> E:\Find_File_In_Directory\x64\Debug\Find_File_In_Directory.exe
